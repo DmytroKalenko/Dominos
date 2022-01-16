@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/DominosPizza/static/css/main.8f553260.chunk.css",
-    "main.js": "/DominosPizza/static/js/main.10ae6de7.chunk.js",
-    "main.js.map": "/DominosPizza/static/js/main.10ae6de7.chunk.js.map",
-    "runtime-main.js": "/DominosPizza/static/js/runtime-main.23eb49d9.js",
-    "runtime-main.js.map": "/DominosPizza/static/js/runtime-main.23eb49d9.js.map",
-    "static/js/2.c4cf65bd.chunk.js": "/DominosPizza/static/js/2.c4cf65bd.chunk.js",
-    "static/js/2.c4cf65bd.chunk.js.map": "/DominosPizza/static/js/2.c4cf65bd.chunk.js.map",
-    "static/js/3.ae610e50.chunk.js": "/DominosPizza/static/js/3.ae610e50.chunk.js",
-    "static/js/3.ae610e50.chunk.js.map": "/DominosPizza/static/js/3.ae610e50.chunk.js.map",
+    "main.js": "/DominosPizza/static/js/main.fb2e2e3f.chunk.js",
+    "main.js.map": "/DominosPizza/static/js/main.fb2e2e3f.chunk.js.map",
+    "runtime-main.js": "/DominosPizza/static/js/runtime-main.91211236.js",
+    "runtime-main.js.map": "/DominosPizza/static/js/runtime-main.91211236.js.map",
+    "static/js/2.9f891ee2.chunk.js": "/DominosPizza/static/js/2.9f891ee2.chunk.js",
+    "static/js/2.9f891ee2.chunk.js.map": "/DominosPizza/static/js/2.9f891ee2.chunk.js.map",
+    "static/js/3.0f0dc170.chunk.js": "/DominosPizza/static/js/3.0f0dc170.chunk.js",
+    "static/js/3.0f0dc170.chunk.js.map": "/DominosPizza/static/js/3.0f0dc170.chunk.js.map",
     "index.html": "/DominosPizza/index.html",
     "static/css/main.8f553260.chunk.css.map": "/DominosPizza/static/css/main.8f553260.chunk.css.map",
-    "static/js/2.c4cf65bd.chunk.js.LICENSE.txt": "/DominosPizza/static/js/2.c4cf65bd.chunk.js.LICENSE.txt",
+    "static/js/2.9f891ee2.chunk.js.LICENSE.txt": "/DominosPizza/static/js/2.9f891ee2.chunk.js.LICENSE.txt",
     "static/media/Fonts.scss": "/DominosPizza/static/media/fontello.e15a2c3b.svg",
     "static/media/chili-pepper.c70d078d.svg": "/DominosPizza/static/media/chili-pepper.c70d078d.svg",
     "static/media/facebook.1e4e4ffa.svg": "/DominosPizza/static/media/facebook.1e4e4ffa.svg",
@@ -23,9 +23,9 @@
     "static/media/youtube.302eb829.svg": "/DominosPizza/static/media/youtube.302eb829.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.23eb49d9.js",
-    "static/js/2.c4cf65bd.chunk.js",
+    "static/js/runtime-main.91211236.js",
+    "static/js/2.9f891ee2.chunk.js",
     "static/css/main.8f553260.chunk.css",
-    "static/js/main.10ae6de7.chunk.js"
+    "static/js/main.fb2e2e3f.chunk.js"
   ]
 }
